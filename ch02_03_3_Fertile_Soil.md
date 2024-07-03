@@ -4,7 +4,7 @@
 
 ![ch02_03_3_Fertile_Soil1](Images/ch02_03_3_Fertile_Soil1.png)
 
-...何か素晴らしいものを作ろうと人々が​[2 もやもや](ch02_02_2_The_Mist.md)から出てきて、スクラムの精神 (​[1 ゲームの精神](ch01_01_1_The_Spirit_of_the_Game.md))で力を合わせたいと思っている。
+...何か素晴らしいものを作ろうと人々が​[2 もやもや](ch02_02_2_The_Mist.md)から出てきて、スクラムの精神 (​[1 ゲームの精神](ch01_01_1_The_Spirit_of_the_Game.md)​)で力を合わせたいと思っている。
 
 ![ch02_03_3_Fertile_Soil2](Images/ch02_03_3_Fertile_Soil2.png)
 
